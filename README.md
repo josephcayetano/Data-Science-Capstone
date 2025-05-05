@@ -1,5 +1,11 @@
 # D606-Data-Science-Capstone
 ### Overview
+This capstone project builds and tunes a Random Forest classifier to predict whether homes are classified as "luxury" using housing and neighborhood features, aiming to automate manual labeling and highlight key drivers.
+
+### Luxury Home Classification – Random Forest Model
+- Developed a Random Forest model with hyperparameter tuning, achieving ~90% accuracy, precision, and recall on unseen test data.
+- Identified price, previous sale price, square footage, and renovation quality as the top predictors of luxury homes.
+- Recommended the model for real estate agencies to automate luxury classification, and suggested expanding the dataset with subjective features (e.g., interior quality, views) for future research.
 
 ### Files
 1. README.md - A file describing other files in this repository.
