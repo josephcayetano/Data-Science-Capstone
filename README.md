@@ -1,4 +1,4 @@
-# D606-Data-Science-Capstone
+# Data Science Capstone
 ### Overview
 This capstone project builds and tunes a Random Forest classifier to predict whether homes are classified as "luxury" using housing and neighborhood features, aiming to automate manual labeling and highlight key drivers.
 
